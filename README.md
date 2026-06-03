@@ -7,7 +7,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
 </p>
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Contato</h2>
 
 <p align="center">
   Email: gustavoscheidt22@gmailcom
