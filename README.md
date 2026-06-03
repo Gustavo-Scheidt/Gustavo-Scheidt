@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Software Engineering Student</h3>
+<h1 align="center">Software Engineering Student</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
@@ -16,5 +16,4 @@
   <br>
   Email: gustavoscheidt22@gmailcom
   <br>
-  LinkedIn: 
 </p>
