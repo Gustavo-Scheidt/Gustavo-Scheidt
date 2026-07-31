@@ -8,9 +8,7 @@
 </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,vscode" /> </p>
 
-ou
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,html,css,js" /> </p>
 <h2 align="center">Contato</h2>
 
 <p align="center">
