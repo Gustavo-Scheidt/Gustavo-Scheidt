@@ -1,11 +1,9 @@
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+  <img src="https://skillicons.dev/icons?i=python,django,git,github,vscode"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
+  <img src="./images/data-analysis.svg" width="48"/>
 </p>
 
 
