@@ -1,10 +1,8 @@
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,vscode,html,css" />
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" alt="Power BI"/>
-</p>p>
+</p>
 
 
 <h2 align="center">Contato</h2>
