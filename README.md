@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" alt="Pandas"/>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+[![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://github.com/)
+
 
 <h2 align="center">Contato</h2>
 
