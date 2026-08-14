@@ -1,5 +1,4 @@
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
+<img src="https://img.shields.io/badge/Data-Data%20Analysis?style=for-the-badge&logo=databricks&logoColor=white">
 <h2 align="center">Contato</h2>
 
 <p align="center">
