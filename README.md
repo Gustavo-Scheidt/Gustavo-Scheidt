@@ -27,7 +27,7 @@ Estou sempre buscando aprender, aprimorar minhas habilidades e crescer profissio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode&theme=dark"/>
 
 <br><br>
 
