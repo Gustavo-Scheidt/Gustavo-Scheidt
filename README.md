@@ -32,10 +32,9 @@ Estou sempre buscando aprender, aprimorar minhas habilidades e crescer profissio
 <br><br>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Automation-0078D4?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
--
+
 
