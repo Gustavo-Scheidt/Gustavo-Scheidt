@@ -37,53 +37,5 @@ Estou sempre buscando aprender, aprimorar minhas habilidades e crescer profissio
 
 </div>
 
----
+-
 
-## 💻 Áreas de interesse
-
-<div align="center">
-
-| Área | Foco |
-|:---:|:---|
-| ⚙️ Automações | Otimização de tarefas e processos |
-| 🌐 Desenvolvimento Web | Criação de páginas e sistemas web |
-| 📊 Análise de Dados | Organização, análise e visualização de informações |
-| 💡 Tecnologia | Desenvolvimento de soluções e aprendizado contínuo |
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Scheidt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Scheidt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Gustavo-Scheidt&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gustavo-Scheidt/Gustavo-Scheidt/output/snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Transformando ideias em soluções através da tecnologia.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:050816&height=100&section=footer"/>
-
-</div>
