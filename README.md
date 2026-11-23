@@ -34,67 +34,7 @@ Gosto de aprender novas ferramentas, resolver problemas e transformar ideias em 
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Scheidt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Scheidt&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Gustavo-Scheidt&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Gustavo-Scheidt/Gustavo-Scheidt/output/snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Sempre aprendendo. Sempre evoluindo.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:050816&height=100&section=footer"/>
-
-</div>
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Gustavo-Scheidt
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
